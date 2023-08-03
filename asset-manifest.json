@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptoanlys/static/css/main.c16993b3.css",
+    "main.js": "/cryptoanlys/static/js/main.568a8e89.js",
+    "index.html": "/cryptoanlys/index.html",
+    "main.c16993b3.css.map": "/cryptoanlys/static/css/main.c16993b3.css.map",
+    "main.568a8e89.js.map": "/cryptoanlys/static/js/main.568a8e89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c16993b3.css",
+    "static/js/main.568a8e89.js"
+  ]
+}
